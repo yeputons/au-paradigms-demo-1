@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def add(a, b):
-    # TODO: реализуйте сложение двух чисел
+    # TODO: реализуйте сложение двух чисел, пожалуйста
     pass
 
 def test_add():
