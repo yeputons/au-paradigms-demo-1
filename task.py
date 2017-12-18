@@ -10,6 +10,7 @@ def test_add():
     assert add(2, 5) == 7
 
 def main():
+	test_add()
     print("Hello World")
 
 if __name__ == "__main__":
