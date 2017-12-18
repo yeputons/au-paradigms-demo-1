@@ -8,6 +8,7 @@ def test_add():
     assert add(2, 2) == 4
     assert add(5, 10) == 15
     assert add(2, 5) == 7
+
 def main():
     print("Hello World")
 
